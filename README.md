@@ -1,7 +1,7 @@
-# cip-amer-examples-ext
+# Content
 
-This repository is part of the Confluent organization on GitHub.
-It is public and open to contributions from the community.
+* [Overview](#overview)
 
-Please see the LICENSE file for contribution terms.
-Please see the CHANGELOG.md for details of recent updates.
+# Overview
+
+This repository provides a curated collection of customer-facing examples and boilerplate assets designed to accelerate time-to-value with **Confluent Cloud**. It includes reusable building blocks—such as **Demos**, **Confluent Cloud infrastructure-as-code (IaC) configurations with Terraform**, **DataStream Java and Apache Flink® examples**, and other reference implementations—so you can quickly bootstrap cloud environments, explore recommended patterns, and begin realizing the benefits of event streaming on Confluent Cloud.
